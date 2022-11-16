@@ -3,10 +3,15 @@
 
 ## 🏫 Outside school ...
 - Anime: I consider [Hyouka](https://myanimelist.net/anime/12189/Hyouka) as an epitome of the mystery/romance anime. Studio Ghibli and Kyoto Animation are anime studios I love. 
-- Music: I enjoy lo-fi and anime OSTs
+- Music: I enjoy lo-fi, anime OSTs, and Vietnamese pop-ballad songs.
+- Sports: Football and swimming are my favourites, though I'm not into football leagues.
+- Reviews I love: Dank meme reviews and tech reviews
+- Voluntary services
+
 
 ## 💞️ I’m currently working on ...
 - 🤖 A mental health chatbot
+- Small Python projects
 
 ## 📫 How to reach me ...
 - **Mail:** minhhoangvu0505@gmail.com
