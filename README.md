@@ -1,21 +1,16 @@
-# 👋 Hi, I’m @minhhoangvu5 ...
-**I'm a senior Physics-majored student in [Hanoi - Amsterdam High School for the Gifted](http://hn-ams.edu.vn). My pronouns are 'he/him'.**
+# 👋 Hi, I’m @hoangvu5 ...
+**I'm a Computer Science freshman at [Florida State University](https://en.wikipedia.org/wiki/Florida_State_University). My pronouns are 'he/him'.**
 
 ## 🏫 Outside school ...
-- Anime: I consider [Hyouka](https://myanimelist.net/anime/12189/Hyouka) as an epitome of the mystery/romance anime. Studio Ghibli and Kyoto Animation are anime studios I love. 
-- Music: I enjoy lo-fi, anime OSTs, and Vietnamese pop-ballad songs.
-- Sports: Football and swimming are my favourites, though I'm not into football leagues.
-- Reviews I love: Dank meme reviews and tech reviews
-- Voluntary services
-
+- Anime: I consider [Hyouka](https://myanimelist.net/anime/12189/Hyouka) as a masterpiece of the mystery/romance anime genre. I also have much love for Studio Ghibli and Kyoto Animation!
+- Music: Lo-fi, anime OSTs, Vietnam pop-ballad are my type!
 
 ## 💞️ I’m currently working on ...
-- 🤖 A mental health chatbot
-- Small Python projects
+- Improving my skills in WebDev, Tensorflow and C++!
 
 ## 📫 How to reach me ...
-- **Mail:** minhhoangvu0505@gmail.com
-- **Phone:** [396-434-156](tel:+84-396-434-156)
+- **Mail:** hmv23@fsu.edu
+- **Phone:** [448-213-9333](tel:+1-448-213-9333)
 
 <!---
 minhhoangvu5/minhhoangvu5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
