@@ -1,3 +1,5 @@
+<img src="./asset/fsu-bgimage.jpg" style="display:block; margin-left:auto; margin-right:auto; width:100%;">
+
 # 👋 Hi, I’m @hoangvu5 ...
 **I'm a Computer Science freshman at [Florida State University](https://en.wikipedia.org/wiki/Florida_State_University). My pronouns are 'he/him'.**
 
