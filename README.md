@@ -12,11 +12,12 @@
 ## 🏫 Outside school ...
 - Anime: I consider [Hyouka](https://myanimelist.net/anime/12189/Hyouka) as a masterpiece of the mystery/romance anime genre. I also share much love for Studio Ghibli and Kyoto Animation!
 - Music: Lo-fi, anime OSTs, Vietnam pop-ballad are my type!
-- Hobby: I enjoy soccer and basketball. I recently picked up billiards!
+- Hobby: I enjoy soccer and basketball. I recently picked up billiards and pickleball!
 
 ## 💞️ I’m currently working on ...
 - Improving my skills in Web Development, Machine Learning and DS&A!
-- My simple portfolio right [here](https://hoangvu5.github.io/)!
+- Picking up SQL
+- A video bot using Python and OpenAI's API.
 
 ## 📫 How to reach me ...
 - **Mail:** hmv23@fsu.edu
