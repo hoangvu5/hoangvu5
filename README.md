@@ -1,7 +1,7 @@
 <img src="./asset/fsu-bgimage.jpg" style="display:block; margin-left:auto; margin-right:auto; width:100%;">
 
 # 👋 Hi, I’m [@hoangvu5](https://github.com/hoangvu5) ...
-**I'm a freshman pursuing Computer Science at [Florida State University](https://en.wikipedia.org/wiki/Florida_State_University).**
+**I'm a sophomore pursuing Computer Science at [Florida State University](https://en.wikipedia.org/wiki/Florida_State_University).**
 
 <a href="https://github.com/hoangvu5" target="blank"><img src="./asset/colored-SVG/github-com.svg" style="display:block; margin-left:auto; margin-right:auto; width:4%;"> 
 <a href="https://www.linkedin.com/in/hoang-vu-98457728a" target="blank"><img src="./asset/colored-SVG/linkedin-com.svg" style="display:block; margin-left:auto; margin-right:auto; width:4%;"> 
@@ -16,7 +16,7 @@
 
 ## 💞️ I’m currently working on ...
 - Improving my skills in Web Development, Machine Learning and DS&A!
-- Picking up SQL
+- Picking up SQLite.
 - A video bot using Python and OpenAI's API.
 
 ## 📫 How to reach me ...
