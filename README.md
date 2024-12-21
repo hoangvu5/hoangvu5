@@ -12,13 +12,13 @@ Down here are my **socials**:
   <a href="https://discordapp.com/users/530765773438976020" target="_blank">
     <img src="./asset/colored-SVG/discord-com.svg" style="width: 4%;">
   </a>
-  <a href="https://www.linkedin.com/in/hoang-vu-98457728a" target="_blank">
+  <a href="https://www.linkedin.com/in/hoangvu5" target="_blank">
     <img src="./asset/colored-SVG/linkedin-com.svg" style="width: 4%;">
   </a>
-  <a href="https://codeforces.com/profile/Fury505" target="_blank">
+  <a href="https://codeforces.com/profile/FuriousV" target="_blank">
     <img src="./asset/colored-SVG/codeforces-com.svg" style="width: 4%;">
   </a>
-  <a href="https://leetcode.com/u/furiousv" target="_blank">
+  <a href="https://leetcode.com/u/hoangvu5" target="_blank">
     <img src="./asset/colored-SVG/leetcode-com.svg" style="width: 4%;">
   </a>
   <a href="https://www.kaggle.com/hoangmvu" target="_blank">
